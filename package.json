@@ -4,6 +4,7 @@
   "description": "An NPC generator based on a randomised Tarot reading",
   "main": "src/index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
