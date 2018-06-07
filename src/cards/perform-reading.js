@@ -2,7 +2,11 @@ const Random = require('random-js');
 
 const random = new Random(Random.engines.mt19937().autoSeed());
 const fullDeck = [
-  ...require('./data/major.json')
+  ...require('./data/major.json'),
+  ...require('./data/cups.json'),
+  ...require('./data/swords.json'),
+  ...require('./data/pentacles.json'),
+  ...require('./data/wands.json')
 ];
 
 const format = [
@@ -11,7 +15,6 @@ const format = [
   'Signature/Talent',
   'Possibilities',
   'Special Knowledge',
-  'Special Item',
   'Allegiances',
   'Past Experience',
   'Present Situation',

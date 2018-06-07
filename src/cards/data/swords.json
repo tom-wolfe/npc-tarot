@@ -1,0 +1,72 @@
+[
+  {
+    "number": 1, "suit": "Swords",
+    "uprightDescription": "Raw power, victory, breakthroughs, mental clarity",
+    "reverseDescription": "Confusion, chaos, lack of clarity"
+  },
+  {
+    "number": 2, "suit": "Swords",
+    "uprightDescription": "Indecision, choices, truce, stalemate, blocked emotions",
+    "reverseDescription": "Indecision, confusion, information overload"
+  },
+  {
+    "number": 3, "suit": "Swords",
+    "uprightDescription": "Painful separation, sorrow heartbreak, grief, rejection",
+    "reverseDescription": "Releasing pain, optimism, forgiveness"
+  },
+  {
+    "number": 4, "suit": "Swords",
+    "uprightDescription": "Contemplation, recuperation, passivity, relaxation, rest",
+    "reverseDescription": "Restlessness, burn-out, lack of progress"
+  },
+  {
+    "number": 5, "suit": "Swords",
+    "uprightDescription": "Conflict, tension, loss, defeat, win at all costs, betrayal",
+    "reverseDescription": "Open to change, past resentment"
+  },
+  {
+    "number": 6, "suit": "Swords",
+    "uprightDescription": "Regretful but necessary transition, rite of passage",
+    "reverseDescription": "Cannot move on, carrying baggage"
+  },
+  {
+    "number": 7, "suit": "Swords",
+    "uprightDescription": "Betrayal, deception, getting away with something, stealth",
+    "reverseDescription": "Mental challenges, breaking free"
+  },
+  {
+    "number": 8, "suit": "Swords",
+    "uprightDescription": "Isolation, self-imposed restriction, imprisonment",
+    "reverseDescription": "Open to new perspectives, release"
+  },
+  {
+    "number": 9, "suit": "Swords",
+    "uprightDescription": "Depression, nightmares, intense anxiety, despair",
+    "reverseDescription": "Hopelessness, severe depression, torment"
+  },
+  {
+    "number": 10, "suit": "Swords",
+    "uprightDescription": "Back-stabbed, defeat, crisis, betrayal, endings, loss",
+    "reverseDescription": "Recovery, regeneration, fear of ruin, inevitable end"
+  },
+  {
+    "number": 11, "suit": "Swords",
+    "uprightDescription": "Talkative, curious, mentally restless, energetic",
+    "reverseDescription": "All talk and no action, haste, undelivered promises"
+  },
+  {
+    "number": 12, "suit": "Swords",
+    "uprightDescription": "Opinionated, hasty, action-oriented, communicative",
+    "reverseDescription": "Scattered thought, disregard for consequences"
+  },
+  {
+    "number": 13, "suit": "Swords",
+    "uprightDescription": "Quick thinker, organized, perceptive, independent",
+    "reverseDescription": "Overly-emotional, bitchy, cold-hearted"
+  },
+  {
+    "number": 14, "suit": "Swords",
+    "uprightDescription": "Clear thinking, intellectual power, authority, truth",
+    "reverseDescription": "Manipulative, tyrannical, abusive"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "number": 1, "suit": "Cups",
+    "uprightDescription": "Love, compassion, creativity, overwhelming emotion",
+    "reverseDescription": "Blocked or repressed emotions"
+  },
+  {
+    "number": 2, "suit": "Cups",
+    "uprightDescription": "Unified love, partnership, attraction, relationships",
+    "reverseDescription": "Break-up, imbalance in a relationship, lack of harmony"
+  },
+  {
+    "number": 3, "suit": "Cups",
+    "uprightDescription": "Fertility, femininity, beauty, nature, abundance",
+    "reverseDescription": "Creative block, dependence on others"
+  },
+  {
+    "number": 4, "suit": "Cups",
+    "uprightDescription": "Meditation, contemplation, apathy, re-evaluation",
+    "reverseDescription": "Boredom, missed opportunity, being aloof"
+  },
+  {
+    "number": 5, "suit": "Cups",
+    "uprightDescription": "Loss, regret, disappointment, despair, bereavement",
+    "reverseDescription": "Moving on, acceptance, forgiveness"
+  },
+  {
+    "number": 6, "suit": "Cups",
+    "uprightDescription": "Reunion, nostalgia, childhood memories, innocence",
+    "reverseDescription": "Stuck in the past, naivety, unrealistic"
+  },
+  {
+    "number": 7, "suit": "Cups",
+    "uprightDescription": "Fantasy, illusion, wishful thinking, choices, imagination",
+    "reverseDescription": "Temptation, illusion, diversionary tactics"
+  },
+  {
+    "number": 8, "suit": "Cups",
+    "uprightDescription": "Escapism, disappointment, abandonment, withdrawal",
+    "reverseDescription": "Hopelessness, aimless drifting, walking away"
+  },
+  {
+    "number": 9, "suit": "Cups",
+    "uprightDescription": "Wishes fulfilled, comfort, happiness, satisfaction",
+    "reverseDescription": "Greed, dissatisfaction, materialism"
+  },
+  {
+    "number": 10, "suit": "Cups",
+    "uprightDescription": "Harmony, marriage, happiness, alignment",
+    "reverseDescription": "Misalignment of values, broken home or marriage"
+  },
+  {
+    "number": 11, "suit": "Cups",
+    "uprightDescription": "A messenger, creative beginnings, synchronicity",
+    "reverseDescription": "Emotional immaturity, creative block"
+  },
+  {
+    "number": 12, "suit": "Cups",
+    "uprightDescription": "Romance, charm, ‘Knight in shining armour’, imagination",
+    "reverseDescription": "Unrealistic, jealousy, moodiness"
+  },
+  {
+    "number": 13, "suit": "Cups",
+    "uprightDescription": "Emotional security, calm, intuitive, compassionate",
+    "reverseDescription": "Emotional insecurity, co-dependency"
+  },
+  {
+    "number": 14, "suit": "Cups",
+    "uprightDescription": "Emotional balance and control, generosity",
+    "reverseDescription": "Emotional manipulation, moodiness, volatility"
+  }
+]

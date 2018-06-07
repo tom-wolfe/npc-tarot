@@ -1,0 +1,72 @@
+[
+  {
+    "number": 1, "suit": "Wands",
+    "uprightDescription": "Inspiration, power, creation, beginnings, potential",
+    "reverseDescription": "Delays, lack of motivation, weighed down"
+  },
+  {
+    "number": 2, "suit": "Wands",
+    "uprightDescription": "Future planning, progress, decisions, discovery",
+    "reverseDescription": "Fear of unknown, lack of planning"
+  },
+  {
+    "number": 3, "suit": "Wands",
+    "uprightDescription": "Preparation, foresight, enterprise, expansion",
+    "reverseDescription": "Lack of foresight, delays, obstacles to long-term goals"
+  },
+  {
+    "number": 4, "suit": "Wands",
+    "uprightDescription": "Celebration, harmony, marriage, home, community",
+    "reverseDescription": "Breakdown in communication, transition"
+  },
+  {
+    "number": 5, "suit": "Wands",
+    "uprightDescription": "Disagreement, competition, strife, tension, conflict",
+    "reverseDescription": "Conflict avoidance, increased focus on goals"
+  },
+  {
+    "number": 6, "suit": "Wands",
+    "uprightDescription": "Public recognition, victory, progress, self-confidence",
+    "reverseDescription": "Egotism, disrepute, lack of confidence, fall from grace"
+  },
+  {
+    "number": 7, "suit": "Wands",
+    "uprightDescription": "Challenge, competition, perseverance",
+    "reverseDescription": "Giving up, overwhelmed, overly protective"
+  },
+  {
+    "number": 8, "suit": "Wands",
+    "uprightDescription": "Speed, action, air travel, movement, swift change",
+    "reverseDescription": "Delays, frustration, holding off"
+  },
+  {
+    "number": 9, "suit": "Wands",
+    "uprightDescription": "Courage, persistence, test of faith, resilience",
+    "reverseDescription": "On edge, defensive, hesitant, paranoia"
+  },
+  {
+    "number": 10, "suit": "Wands",
+    "uprightDescription": "Burden, responsibility, hard work, stress, achievement",
+    "reverseDescription": "Taking on too much, avoiding responsibility"
+  },
+  {
+    "number": 11, "suit": "Wands",
+    "uprightDescription": "Enthusiasm, exploration, discovery, free spirit",
+    "reverseDescription": "Setbacks to new ideas, pessimism, lack of direction"
+  },
+  {
+    "number": 12, "suit": "Wands",
+    "uprightDescription": "Energy, passion, lust, action, adventure, impulsiveness",
+    "reverseDescription": "Haste, scattered energy, delays, frustration"
+  },
+  {
+    "number": 13, "suit": "Wands",
+    "uprightDescription": "Exuberance, warmth, vibrancy, determination",
+    "reverseDescription": "Shrinking violet, aggressive, demanding"
+  },
+  {
+    "number": 14, "suit": "Wands",
+    "uprightDescription": "Natural-born leader, vision, entrepreneur, honour",
+    "reverseDescription": "Impulsiveness, haste, ruthless, high expectations"
+  }
+]

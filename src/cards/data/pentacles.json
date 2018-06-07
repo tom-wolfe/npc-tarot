@@ -1,0 +1,72 @@
+[
+  {
+    "number": 1, "suit": "Pentacles",
+    "uprightDescription": "Manifestation, new financial opportunity, prosperity",
+    "reverseDescription": "Lost opportunity, lack of planning and foresight"
+  },
+  {
+    "number": 2, "suit": "Pentacles",
+    "uprightDescription": "Balance, adaptability, time management, prioritization",
+    "reverseDescription": "Disorganization, financial disarray"
+  },
+  {
+    "number": 3, "suit": "Pentacles",
+    "uprightDescription": "Teamwork, initial fulfillment, collaboration, learning",
+    "reverseDescription": "Lack of teamwork, disregard for skills"
+  },
+  {
+    "number": 4, "suit": "Pentacles",
+    "uprightDescription": "Control, stability, security, possession, conservatism",
+    "reverseDescription": "Greed, materialism, self-protection"
+  },
+  {
+    "number": 5, "suit": "Pentacles",
+    "uprightDescription": "Isolation, insecurity, worry, financial loss, poverty",
+    "reverseDescription": "Recovery from financial loss, spiritual poverty"
+  },
+  {
+    "number": 6, "suit": "Pentacles",
+    "uprightDescription": "Generosity, charity, giving, prosperity, sharing wealth",
+    "reverseDescription": "Debt, selfishness, one-sided charity"
+  },
+  {
+    "number": 7, "suit": "Pentacles",
+    "uprightDescription": "Vision, perseverance, profit, reward, investment",
+    "reverseDescription": "Lack of long-term vision, limited success or reward"
+  },
+  {
+    "number": 8, "suit": "Pentacles",
+    "uprightDescription": "Apprenticeship, education, quality, engagement",
+    "reverseDescription": "Perfectionism, lacking ambition or focus"
+  },
+  {
+    "number": 9, "suit": "Pentacles",
+    "uprightDescription": "Gratitude, luxury, self-sufficiency, culmination",
+    "reverseDescription": "Over-investment in work, financial setbacks"
+  },
+  {
+    "number": 10, "suit": "Pentacles",
+    "uprightDescription": "Wealth, inheritance, family, establishment, retirement",
+    "reverseDescription": "Financial failure, loneliness, loss"
+  },
+  {
+    "number": 11, "suit": "Pentacles",
+    "uprightDescription": "Manifestation, financial opportunity, new job",
+    "reverseDescription": "Lack of progress and planning, short-term focus"
+  },
+  {
+    "number": 12, "suit": "Pentacles",
+    "uprightDescription": "Efficiency, routine, conservatism, methodical",
+    "reverseDescription": "Laziness, boredom, feeling ‘stuck’"
+  },
+  {
+    "number": 13, "suit": "Pentacles",
+    "uprightDescription": "Practical, homely, motherly, down-to-earth, security",
+    "reverseDescription": "Imbalance in work/ family commitments"
+  },
+  {
+    "number": 14, "suit": "Pentacles",
+    "uprightDescription": "Security, control, power, discipline, abundance",
+    "reverseDescription": "Authoritative, domineering, controlling"
+  }
+]
