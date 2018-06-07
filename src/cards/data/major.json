@@ -1,0 +1,156 @@
+[
+  {
+    "number": 0,
+    "name": "The Fool",
+    "suit": "major",
+    "uprightDescription": "Beginnings, innocence, spontaneity, a free spirit",
+    "reverseDescription": "Naivety, foolishness, recklessness, risk-taking"
+  },
+  {
+    "number": 1,
+    "name": "The Magician",
+    "suit": "major",
+    "uprightDescription": " Power, skill, concentration, action, resourcefulness",
+    "reverseDescription": "Manipulation, poor planning, latent talents"
+  },
+  {
+    "number": 2,
+    "name": "The High Priestess",
+    "suit": "major",
+    "uprightDescription": "Intuition, Higher powers, mystery, subconscious mind",
+    "reverseDescription": "Hidden agendas, need to listen to inner voice"
+  },
+  {
+    "number": 3,
+    "name": "The Empress",
+    "suit": "major",
+    "uprightDescription": "Fertility, femininity, beauty, nature, abundance",
+    "reverseDescription": "Creative block, dependence on others"
+  },
+  {
+    "number": 4,
+    "name": "The Emperor",
+    "suit": "major",
+    "uprightDescription": "Authority, father-figure, structure, solid foundation",
+    "reverseDescription": "Domination, excessive control, rigidity, inflexibility"
+  },
+  {
+    "number": 5,
+    "name": "The Hierophant",
+    "suit": "major",
+    "uprightDescription": "Religion, group identification, conformity, tradition, beliefs",
+    "reverseDescription": "Restriction, challenging the status quo"
+  },
+  {
+    "number": 6,
+    "name": "The Lovers",
+    "suit": "major",
+    "uprightDescription": "Love, union, relationships, values alignment, choices",
+    "reverseDescription": "Disharmony, imbalance, misalignment of values"
+  },
+  {
+    "number": 7,
+    "name": "The Chariot",
+    "suit": "major",
+    "uprightDescription": "Control, will power, victory, assertion, determination",
+    "reverseDescription": "Lack of control and direction, aggression"
+  },
+  {
+    "number": 8,
+    "name": "Strength",
+    "suit": "major",
+    "uprightDescription": "Strength, courage, patience, control, compassion",
+    "reverseDescription": "Weakness, self-doubt, lack of self-discipline"
+  },
+  {
+    "number": 9,
+    "name": "The Hermit",
+    "suit": "major",
+    "uprightDescription": "Soul-searching, introspection, being alone, inner guidance",
+    "reverseDescription": "Isolation, loneliness, withdrawal"
+  },
+  {
+    "number": 10,
+    "name": "Wheel of Fortune",
+    "suit": "major",
+    "uprightDescription": "Good luck, karma, life cycles, destiny, a turning point",
+    "reverseDescription": "Bad luck, negative external forces, out of control"
+  },
+  {
+    "number": 11,
+    "name": "Justice",
+    "suit": "major",
+    "uprightDescription": "Justice, fairness, truth, cause and effect, law",
+    "reverseDescription": "Unfairness, lack of accountability, dishonesty"
+  },
+  {
+    "number": 12,
+    "name": "The Hanged Man",
+    "suit": "major",
+    "uprightDescription": "Suspension, restriction, letting go, sacrifice",
+    "reverseDescription": "Martyrdom, indecision, delay"
+  },
+  {
+    "number": 13,
+    "name": "Death",
+    "suit": "major",
+    "uprightDescription": "Endings, beginnings, change, transformation, transition",
+    "reverseDescription": "Resistance to change, unable to move on"
+  },
+  {
+    "number": 14,
+    "name": "Temperance",
+    "suit": "major",
+    "uprightDescription": "Balance, moderation, patience, purpose, meaning",
+    "reverseDescription": "Imbalance, excess, lack of long-term vision"
+  },
+  {
+    "number": 15,
+    "name": "The Devil",
+    "suit": "major",
+    "uprightDescription": "Bondage, addiction, sexuality, materialism",
+    "reverseDescription": "Detachment, breaking free, power reclaimed"
+  },
+  {
+    "number": 16,
+    "name": "The Tower",
+    "suit": "major",
+    "uprightDescription": "Disaster, upheaval, sudden change, revelation",
+    "reverseDescription": "Avoidance of disaster, fear of change"
+  },
+  {
+    "number": 17,
+    "name": "The Star",
+    "suit": "major",
+    "uprightDescription": "Hope, spirituality, renewal, inspiration, serenity",
+    "reverseDescription": "Lack of faith, despair, discouragement"
+  },
+  {
+    "number": 18,
+    "name": "The Moon",
+    "suit": "major",
+    "uprightDescription": "Illusion, fear, anxiety, insecurity, subconscious",
+    "reverseDescription": "Release of fear, unhappiness, confusion"
+  },
+  {
+    "number": 19,
+    "name": "The Sun",
+    "suit": "major",
+    "uprightDescription": "Fun, warmth, success, positivity, vitality",
+    "reverseDescription": "Temporary depression, lack of success"
+  },
+  {
+    "number": 20,
+    "name": "Judgement",
+    "suit": "major",
+    "uprightDescription": "Judgement, rebirth, inner calling, absolution",
+    "reverseDescription": "Self-doubt, refusal of self-examination"
+  },
+  {
+    "number": 21,
+    "name": "The World",
+    "suit": "major",
+    "uprightDescription": "Completion, integration, accomplishment, travel",
+    "reverseDescription": "Lack of completion, lack of closure"
+  }
+]

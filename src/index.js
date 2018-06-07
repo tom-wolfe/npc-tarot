@@ -1,8 +1,18 @@
-const Random = require('random-js');
+const performReading = require('./cards/perform-reading');
 
-const random = new Random(Random.engines.mt19937().autoSeed());
-const cards = require('./cards.json');
+function describeCard(card) {
+  let name = '';
+  if (card.suit === 'major') {
+    name = card.name;
+  } else {
+    name = `${card.number} of ${card.suit}`;
+  }
+  if (card.reversed) { name += ' (reversed)'; }
+  return name;
+}
 
-random.shuffle(cards);
-
-console.log(cards);
+const reading = performReading();
+reading.forEach(r => {
+  const description = r.card.reversed ? r.card.uprightDescription : r.card.reverseDescription;
+  console.log(`${r.meaning}: ${describeCard(r.card)}\n${description}\n`);
+});
