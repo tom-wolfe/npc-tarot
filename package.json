@@ -4,8 +4,9 @@
   "description": "An NPC generator based on a randomised Tarot reading",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack",
+    "start": "webpack-dev-server",
+    "test": "jasmine --config=jasmine.json"
   },
   "repository": {
     "type": "git",
@@ -19,7 +20,8 @@
     "dragons",
     "generator",
     "tool",
-    "utility"
+    "utility",
+    "fortune"
   ],
   "author": "Thomas R. Wolfe",
   "license": "MIT",
@@ -28,6 +30,23 @@
   },
   "homepage": "https://github.com/trwolfe13/npc-tarot#readme",
   "dependencies": {
+    "handlebars": "^4.0.11",
+    "hoek": "^5.0.3",
     "random-js": "^1.0.8"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^0.28.11",
+    "html-webpack-plugin": "^3.2.0",
+    "jasmine": "^3.1.0",
+    "node-sass": "^4.9.0",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^7.0.3",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.11.1",
+    "webpack-cli": "^3.0.3",
+    "webpack-dev-server": "^3.1.4"
   }
 }
