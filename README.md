@@ -1,6 +1,6 @@
 # NPC Tarot
 
-[See it Running Here!](https://tarot.twolfe.co.uk)
+[See it Running Here!](https://tarot.twolfe.dev)
 
 This is a simple generator that automates a tarot reading with the intention of being applied to creating D&D NPCs.
 
