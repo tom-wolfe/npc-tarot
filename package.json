@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/trwolfe13/npc-tarot#readme",
   "dependencies": {
-    "handlebars": "^4.0.11",
+    "handlebars": "^4.7.7",
     "hoek": "^5.0.3",
     "random-js": "^1.0.8"
   },
